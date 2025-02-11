@@ -1,4 +1,4 @@
-# piic_app
+# pick iamge with cubit
 
 A new Flutter project.
 
